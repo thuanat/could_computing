@@ -1,1 +1,1 @@
-#Huong dan su dung phan mem nay
+# could_computing
